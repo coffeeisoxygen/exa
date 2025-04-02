@@ -12,3 +12,4 @@ wheels/
 .env
 *.png
 *.ini
+scrcpy-win64-v3.1
